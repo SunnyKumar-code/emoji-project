@@ -1,26 +1,28 @@
-# Emoji Project
+# Emojee - Emoji Application
 
-![Emoji Project](https://sunnykumar-code.github.io/emoji-project/) 
-
-## Description
-
-The Emoji Project is a web application that allows users to search and select emojis easily. Users can click on an emoji to copy it to their clipboard and receive visual feedback that the emoji has been copied successfully.
+## Overview
+Emojee is a web-based emoji application that allows users to browse, search, and copy emojis easily. Users can filter emojis by categories such as Face, Heart, Book, Hand, Sports, and Flag, and search for specific emojis using a search bar.
 
 ## Features
-
-- **Search Functionality**: Type to search for specific emojis by their description.
-- **Click to Copy**: Click on any emoji to copy it to your clipboard.
-- **Visual Feedback**: A temporary message appears when an emoji is successfully copied.
-- **Responsive Design**: The layout is designed to be responsive, providing an optimal experience on both desktop and mobile devices.
+- Browse a variety of emojis categorized into different sections.
+- Search for emojis by description.
+- Copy emojis to the clipboard with a simple click.
+- Responsive design for mobile and desktop users.
 
 ## Technologies Used
-
 - HTML
 - CSS
 - JavaScript
+- Google Fonts (Poppins)
 
-## How to Run the Project
-
-1. Clone this repository:
+## Installation
+1. Clone the repository:
    ```bash
    git clone https://github.com/SunnyKumar-code/emoji-project.git
+## Usage
+1. Open the application in your browser.
+2. Select a category from the options provided to filter the emojis.
+3. Use the search bar to find a specific emoji.
+4. Click on an emoji to copy it to your clipboard. A "Copied!" message will appear briefly.
+## Live Demo
+1. You can view the live demo of the application at the following link: [Live Demo](https://sunnykumar-code.github.io/emoji-project/)
